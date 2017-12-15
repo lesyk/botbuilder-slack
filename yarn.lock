@@ -85,9 +85,9 @@
     "@types/glob" "*"
     "@types/node" "*"
 
-"@types/ws@^3.0.2":
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/@types/ws/-/ws-3.0.2.tgz#b538b6a16daee454ac04054991271f3da38772de"
+"@types/ws@^3.2.1":
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@types/ws/-/ws-3.2.1.tgz#b0c1579e58e686f83ce0a97bb9463d29705827fb"
   dependencies:
     "@types/node" "*"
 
