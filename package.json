@@ -35,7 +35,7 @@
     "@types/jest": "^20.0.8",
     "@types/nock": "^8.2.1",
     "@types/node": "^8.0.28",
-    "@types/qs": "^6.5.0",
+    "@types/qs": "^6.5.1",
     "@types/ws": "^3.0.2",
     "codecov": "^2.3.0",
     "jest": "^21.1.0",
