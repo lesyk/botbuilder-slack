@@ -19,9 +19,9 @@
     winston "^2.1.1"
     ws "^1.0.1"
 
-"@types/bluebird@^3.5.11":
-  version "3.5.11"
-  resolved "https://registry.yarnpkg.com/@types/bluebird/-/bluebird-3.5.11.tgz#60482b3cddce9111dee3cafd08ab54fffee4b119"
+"@types/bluebird@^3.5.18":
+  version "3.5.18"
+  resolved "https://registry.yarnpkg.com/@types/bluebird/-/bluebird-3.5.18.tgz#6a60435d4663e290f3709898a4f75014f279c4d6"
 
 "@types/fs-extra@^4.0.0":
   version "4.0.2"
