@@ -31,7 +31,7 @@
     "botbuilder": "^3.9.1"
   },
   "devDependencies": {
-    "@types/bluebird": "^3.5.11",
+    "@types/bluebird": "^3.5.18",
     "@types/jest": "^20.0.8",
     "@types/nock": "^8.2.1",
     "@types/node": "^8.0.28",
